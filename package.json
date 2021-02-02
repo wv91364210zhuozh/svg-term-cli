@@ -48,7 +48,7 @@
     "@marionebl/sander": "^0.6.1",
     "chalk": "^2.3.0",
     "command-exists": "^1.2.2",
-    "execa": "^0.8.0",
+    "execa": "^0.11.0",
     "get-stdin": "^5.0.1",
     "guess-terminal": "^1.0.0",
     "macos-app-config": "^1.0.1",
