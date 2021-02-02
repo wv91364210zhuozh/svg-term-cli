@@ -47,7 +47,7 @@
   "dependencies": {
     "@marionebl/sander": "^0.6.1",
     "chalk": "^2.3.0",
-    "command-exists": "^1.2.2",
+    "command-exists": "^1.2.9",
     "execa": "^0.8.0",
     "get-stdin": "^5.0.1",
     "guess-terminal": "^1.0.0",
